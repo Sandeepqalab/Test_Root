@@ -2,4 +2,8 @@ Updated file - 2nd change
 
 3rd change
 
+<<<<<<< Updated upstream
 4th after adding child repo
+=======
+Main change
+>>>>>>> Stashed changes
